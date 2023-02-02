@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+ul{
+	list-style: none;
+}
+
+.win, .loss{
+	padding: 3px;
+	line-height: 1.5rem;
+}
+
+.win{
+	background-color: rgba(0, 255, 0, 0.3);
+}
+
+.loss{
+	background-color: rgba(255, 0, 0, 0.3);
+}
